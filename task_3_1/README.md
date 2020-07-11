@@ -1,6 +1,3 @@
-# 2020-06-Stepik
-Automation Testing cource from Stepik
-
 # Задание 3.1
 
 В репозиторий залит базовый код глав 1-2 курса Автоматизация тестирования с помощью Selenium и Python.
